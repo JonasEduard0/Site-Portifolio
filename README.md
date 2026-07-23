@@ -16,5 +16,6 @@ This project is my personal portfolio website, where I showcase my projects and 
 
 - Migrate parts of the project to Vue.js
 - Add TypeScript
+- Use Tailwind
 - Improve the project structure
 - Add backend features with Node.js
