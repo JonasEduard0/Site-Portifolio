@@ -6,11 +6,11 @@ Personal portfolio website developed to showcase my projects, skills, resume, an
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript 
 
 ## About
 
-This project is my personal portfolio website, where I showcase my projects and professional development.
+This project is my personal portfolio website, where I showcase my projects and professional development
 
 ## Future Improvements
 
